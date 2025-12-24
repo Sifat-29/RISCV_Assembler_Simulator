@@ -1,0 +1,4 @@
+addi a0,zero,10
+addi a1,zero,5
+rst
+halt
